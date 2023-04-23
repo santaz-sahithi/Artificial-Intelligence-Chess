@@ -1,0 +1,616 @@
+STARTING LOGGING 2022-05-12 12:32:43.410778
+2022-05-12 12:32:49.350922:- mouse button pressed at (6, 6)
+2022-05-12 12:32:49.351929:-  move piece call moved:False promotion:False 
+2022-05-12 12:32:49.351929:-  (6, 6) selected 
+2022-05-12 12:32:52.124237:- mouse button pressed at (5, 6)
+2022-05-12 12:32:52.125209:-  move piece call moved:True promotion:False 
+2022-05-12 12:32:52.751975:-  AI moving (1, 6) to (2, 6)
+2022-05-12 12:32:58.070893:- mouse button pressed at (7, 5)
+2022-05-12 12:32:58.071891:-  move piece call moved:False promotion:False 
+2022-05-12 12:32:58.071891:-  (7, 5) selected 
+2022-05-12 12:32:59.094653:- mouse button pressed at (5, 7)
+2022-05-12 12:32:59.095644:-  move piece call moved:True promotion:False 
+2022-05-12 12:32:59.661897:-  AI moving (1, 1) to (2, 1)
+2022-05-12 12:33:03.861401:- mouse button pressed at (7, 6)
+2022-05-12 12:33:03.861401:-  move piece call moved:False promotion:False 
+2022-05-12 12:33:03.861401:-  (7, 6) selected 
+2022-05-12 12:33:04.800012:- mouse button pressed at (5, 5)
+2022-05-12 12:33:04.801013:-  move piece call moved:True promotion:False 
+2022-05-12 12:33:05.567011:-  AI moving (0, 6) to (2, 7)
+2022-05-12 12:33:14.648261:- mouse button pressed at (7, 4)
+2022-05-12 12:33:14.649263:-  move piece call moved:False promotion:False 
+2022-05-12 12:33:14.649263:-  (7, 4) selected 
+2022-05-12 12:33:15.553921:- mouse button pressed at (7, 6)
+2022-05-12 12:33:15.554923:-  move piece call moved:True promotion:False 
+2022-05-12 12:33:16.261543:-  AI moving (1, 4) to (2, 4)
+2022-05-12 12:33:20.159147:- mouse button pressed at (6, 4)
+2022-05-12 12:33:20.159147:-  move piece call moved:False promotion:False 
+2022-05-12 12:33:20.160146:-  (6, 4) selected 
+2022-05-12 12:33:20.523147:- mouse button pressed at (4, 4)
+2022-05-12 12:33:20.524146:-  move piece call moved:True promotion:False 
+2022-05-12 12:33:22.060284:-  AI moving (0, 2) to (2, 0)
+2022-05-12 12:33:24.071013:- mouse button pressed at (7, 7)
+2022-05-12 12:33:24.071013:-  move piece call moved:False promotion:False 
+2022-05-12 12:33:24.071013:-  (7, 7) selected 
+2022-05-12 12:33:28.604427:- mouse button pressed at (6, 3)
+2022-05-12 12:33:28.604427:-  move piece call moved:False promotion:False 
+2022-05-12 12:33:28.605431:-  (6, 3) selected 
+2022-05-12 12:33:28.982359:- mouse button pressed at (5, 3)
+2022-05-12 12:33:28.983312:-  move piece call moved:True promotion:False 
+2022-05-12 12:33:30.946480:-  AI moving (2, 6) to (3, 6)
+2022-05-12 12:33:34.602140:- mouse button pressed at (5, 5)
+2022-05-12 12:33:34.602140:-  move piece call moved:False promotion:False 
+2022-05-12 12:33:34.603141:-  (5, 5) selected 
+2022-05-12 12:33:58.547294:- mouse button pressed at (7, 3)
+2022-05-12 12:33:58.548289:-  move piece call moved:False promotion:False 
+2022-05-12 12:33:58.549289:-  (7, 3) selected 
+2022-05-12 12:34:00.329454:- mouse button pressed at (5, 5)
+2022-05-12 12:34:00.330443:-  move piece call moved:False promotion:False 
+2022-05-12 12:34:00.331453:-  (5, 5) selected 
+2022-05-12 12:34:00.855602:- mouse button pressed at (3, 6)
+2022-05-12 12:34:00.856606:-  move piece call moved:True promotion:False 
+2022-05-12 12:34:02.722471:-  AI moving (0, 5) to (2, 3)
+2022-05-12 12:34:19.946436:- mouse button pressed at (4, 4)
+2022-05-12 12:34:19.946436:-  move piece call moved:False promotion:False 
+2022-05-12 12:34:19.946436:-  (4, 4) selected 
+2022-05-12 12:34:25.421189:- mouse button pressed at (3, 6)
+2022-05-12 12:34:25.421189:-  move piece call moved:False promotion:False 
+2022-05-12 12:34:25.422151:-  (3, 6) selected 
+2022-05-12 12:34:35.060076:- mouse button pressed at (7, 3)
+2022-05-12 12:34:35.061075:-  move piece call moved:False promotion:False 
+2022-05-12 12:34:35.062075:-  (7, 3) selected 
+2022-05-12 12:34:39.168742:- mouse button pressed at (3, 7)
+2022-05-12 12:34:39.170715:-  move piece call moved:True promotion:False 
+2022-05-12 12:34:41.282186:-  AI moving (0, 3) to (2, 5)
+2022-05-12 12:34:49.526556:- mouse button pressed at (4, 4)
+2022-05-12 12:34:49.527520:-  move piece call moved:False promotion:False 
+2022-05-12 12:34:49.527520:-  (4, 4) selected 
+2022-05-12 12:35:04.637884:- mouse button pressed at (7, 5)
+2022-05-12 12:35:04.638885:-  move piece call moved:False promotion:False 
+2022-05-12 12:35:04.638885:-  (7, 5) selected 
+2022-05-12 12:35:06.346167:- mouse button pressed at (7, 6)
+2022-05-12 12:35:06.346167:-  move piece call moved:False promotion:False 
+2022-05-12 12:35:06.347167:-  (7, 6) selected 
+2022-05-12 12:35:08.478305:- mouse button pressed at (7, 2)
+2022-05-12 12:35:08.479306:-  move piece call moved:False promotion:False 
+2022-05-12 12:35:08.479306:-  (7, 2) selected 
+2022-05-12 12:35:11.894068:- mouse button pressed at (4, 5)
+2022-05-12 12:35:11.895068:-  move piece call moved:True promotion:False 
+2022-05-12 12:35:15.265831:-  AI moving (2, 3) to (4, 5)
+2022-05-12 12:35:19.920743:- mouse button pressed at (5, 6)
+2022-05-12 12:35:19.920743:-  move piece call moved:False promotion:False 
+2022-05-12 12:35:19.920743:-  (5, 6) selected 
+2022-05-12 12:35:28.090127:- mouse button pressed at (4, 5)
+2022-05-12 12:35:28.090127:-  move piece call moved:True promotion:False 
+2022-05-12 12:35:30.443119:-  AI moving (2, 7) to (0, 6)
+2022-05-12 12:35:47.439682:- mouse button pressed at (5, 3)
+2022-05-12 12:35:47.439682:-  move piece call moved:False promotion:False 
+2022-05-12 12:35:47.439682:-  (5, 3) selected 
+2022-05-12 12:35:48.341162:- mouse button pressed at (4, 3)
+2022-05-12 12:35:48.341162:-  move piece call moved:True promotion:False 
+2022-05-12 12:35:50.448654:-  AI moving (2, 0) to (4, 2)
+2022-05-12 12:35:58.748161:- mouse button pressed at (7, 5)
+2022-05-12 12:35:58.748161:-  move piece call moved:False promotion:False 
+2022-05-12 12:35:58.749160:-  (7, 5) selected 
+2022-05-12 12:36:03.958458:- mouse button pressed at (7, 4)
+2022-05-12 12:36:03.959459:-  move piece call moved:True promotion:False 
+2022-05-12 12:36:06.792174:-  AI moving (4, 2) to (3, 1)
+2022-05-12 12:36:12.733265:- mouse button pressed at (3, 7)
+2022-05-12 12:36:12.733265:-  move piece call moved:False promotion:False 
+2022-05-12 12:36:12.735265:-  (3, 7) selected 
+2022-05-12 12:36:29.587214:- mouse button pressed at (7, 3)
+2022-05-12 12:36:29.589212:-  move piece call moved:True promotion:False 
+2022-05-12 12:36:32.040301:-  AI moving (2, 5) to (4, 5)
+2022-05-12 12:36:46.426608:- mouse button pressed at (7, 4)
+2022-05-12 12:36:46.426608:-  move piece call moved:False promotion:False 
+2022-05-12 12:36:46.427611:-  (7, 4) selected 
+2022-05-12 12:36:52.253097:- mouse button pressed at (3, 6)
+2022-05-12 12:36:52.254126:-  move piece call moved:False promotion:False 
+2022-05-12 12:36:52.254126:-  (3, 6) selected 
+2022-05-12 12:37:15.711924:- mouse button pressed at (5, 5)
+2022-05-12 12:37:15.712925:-  move piece call moved:True promotion:False 
+2022-05-12 12:37:19.087932:-  AI moving (3, 1) to (4, 0)
+2022-05-12 12:37:22.391187:- mouse button pressed at (6, 1)
+2022-05-12 12:37:22.391187:-  move piece call moved:False promotion:False 
+2022-05-12 12:37:22.392187:-  (6, 1) selected 
+2022-05-12 12:37:24.040669:- mouse button pressed at (5, 1)
+2022-05-12 12:37:24.040669:-  move piece call moved:True promotion:False 
+2022-05-12 12:37:26.719439:-  AI moving (4, 0) to (3, 1)
+2022-05-12 12:37:29.126256:- mouse button pressed at (5, 5)
+2022-05-12 12:37:29.127255:-  move piece call moved:False promotion:False 
+2022-05-12 12:37:29.127255:-  (5, 5) selected 
+2022-05-12 12:37:35.968128:- mouse button pressed at (3, 4)
+2022-05-12 12:37:35.968128:-  move piece call moved:True promotion:False 
+2022-05-12 12:37:40.175629:-  AI moving (4, 5) to (3, 6)
+2022-05-12 12:37:43.972383:- mouse button pressed at (3, 4)
+2022-05-12 12:37:43.972383:-  move piece call moved:False promotion:False 
+2022-05-12 12:37:43.973354:-  (3, 4) selected 
+2022-05-12 12:37:45.829748:- mouse button pressed at (4, 6)
+2022-05-12 12:37:45.831763:-  move piece call moved:True promotion:False 
+2022-05-12 12:37:49.087289:-  AI moving (0, 1) to (2, 0)
+2022-05-12 12:37:56.256246:- mouse button pressed at (6, 5)
+2022-05-12 12:37:56.257246:-  move piece call moved:False promotion:False 
+2022-05-12 12:37:56.257246:-  (6, 5) selected 
+2022-05-12 12:38:04.060607:- mouse button pressed at (7, 4)
+2022-05-12 12:38:04.060607:-  move piece call moved:False promotion:False 
+2022-05-12 12:38:04.061627:-  (7, 4) selected 
+2022-05-12 12:38:07.300643:- mouse button pressed at (7, 5)
+2022-05-12 12:38:07.301658:-  move piece call moved:True promotion:False 
+2022-05-12 12:38:10.690379:-  AI moving (0, 0) to (0, 1)
+2022-05-12 12:38:26.965712:- mouse button pressed at (7, 5)
+2022-05-12 12:38:26.965712:-  move piece call moved:False promotion:False 
+2022-05-12 12:38:26.965712:-  (7, 5) selected 
+2022-05-12 12:38:28.601946:- mouse button pressed at (6, 2)
+2022-05-12 12:38:28.602946:-  move piece call moved:False promotion:False 
+2022-05-12 12:38:28.602946:-  (6, 2) selected 
+2022-05-12 12:38:33.026852:- mouse button pressed at (4, 2)
+2022-05-12 12:38:33.026852:-  move piece call moved:True promotion:False 
+2022-05-12 12:38:36.029518:-  AI moving (3, 1) to (2, 2)
+2022-05-12 12:38:47.460584:- mouse button pressed at (5, 1)
+2022-05-12 12:38:47.461584:-  move piece call moved:False promotion:False 
+2022-05-12 12:38:47.461584:-  (5, 1) selected 
+2022-05-12 12:38:50.781547:- mouse button pressed at (6, 0)
+2022-05-12 12:38:50.781547:-  move piece call moved:False promotion:False 
+2022-05-12 12:38:50.782546:-  (6, 0) selected 
+2022-05-12 12:38:54.162660:- mouse button pressed at (7, 3)
+2022-05-12 12:38:54.163627:-  move piece call moved:False promotion:False 
+2022-05-12 12:38:54.164658:-  (7, 3) selected 
+2022-05-12 12:38:56.975706:- mouse button pressed at (6, 0)
+2022-05-12 12:38:56.977706:-  move piece call moved:False promotion:False 
+2022-05-12 12:38:56.977706:-  (6, 0) selected 
+2022-05-12 12:39:09.794295:- mouse button pressed at (7, 1)
+2022-05-12 12:39:09.794295:-  move piece call moved:False promotion:False 
+2022-05-12 12:39:09.795295:-  (7, 1) selected 
+2022-05-12 12:39:20.291689:- mouse button pressed at (6, 0)
+2022-05-12 12:39:20.292688:-  move piece call moved:False promotion:False 
+2022-05-12 12:39:20.293689:-  (6, 0) selected 
+2022-05-12 12:39:20.680832:- mouse button pressed at (5, 0)
+2022-05-12 12:39:20.681833:-  move piece call moved:True promotion:False 
+2022-05-12 12:39:24.220330:-  AI moving (0, 4) to (0, 3)
+2022-05-12 12:39:33.591688:- mouse button pressed at (5, 7)
+2022-05-12 12:39:33.591688:-  move piece call moved:False promotion:False 
+2022-05-12 12:39:33.592689:-  (5, 7) selected 
+2022-05-12 12:39:34.398245:- mouse button pressed at (6, 6)
+2022-05-12 12:39:34.398245:-  move piece call moved:True promotion:False 
+2022-05-12 12:39:37.868636:-  AI moving (2, 2) to (1, 1)
+2022-05-12 12:39:40.679991:- mouse button pressed at (6, 6)
+2022-05-12 12:39:40.680991:-  move piece call moved:False promotion:False 
+2022-05-12 12:39:40.680991:-  (6, 6) selected 
+2022-05-12 12:39:43.882903:- mouse button pressed at (4, 4)
+2022-05-12 12:39:43.882903:-  move piece call moved:False promotion:False 
+2022-05-12 12:39:43.883902:-  (4, 4) selected 
+2022-05-12 12:39:44.962274:- mouse button pressed at (3, 4)
+2022-05-12 12:39:44.962274:-  move piece call moved:True promotion:False 
+2022-05-12 12:39:47.986733:-  AI moving (0, 6) to (2, 7)
+2022-05-12 12:39:51.916442:- mouse button pressed at (3, 6)
+2022-05-12 12:39:51.917446:-  move piece call moved:False promotion:False 
+2022-05-12 12:39:51.917446:-  (3, 6) selected 
+2022-05-12 12:39:52.724674:- mouse button pressed at (4, 6)
+2022-05-12 12:39:52.724674:-  move piece call moved:False promotion:False 
+2022-05-12 12:39:52.725674:-  (4, 6) selected 
+2022-05-12 12:39:58.035598:- mouse button pressed at (7, 3)
+2022-05-12 12:39:58.036570:-  move piece call moved:False promotion:False 
+2022-05-12 12:39:58.037593:-  (7, 3) selected 
+2022-05-12 12:40:00.304220:- mouse button pressed at (6, 3)
+2022-05-12 12:40:00.305219:-  move piece call moved:True promotion:False 
+2022-05-12 12:40:03.355173:-  AI moving (3, 6) to (4, 6)
+2022-05-12 12:40:11.976705:- mouse button pressed at (6, 5)
+2022-05-12 12:40:11.976705:-  move piece call moved:False promotion:False 
+2022-05-12 12:40:11.977707:-  (6, 5) selected 
+2022-05-12 12:40:13.146510:- mouse button pressed at (5, 5)
+2022-05-12 12:40:13.146510:-  move piece call moved:True promotion:False 
+2022-05-12 12:40:16.525293:-  AI moving (1, 1) to (5, 5)
+2022-05-12 12:40:21.273851:- mouse button pressed at (6, 6)
+2022-05-12 12:40:21.274850:-  move piece call moved:False promotion:False 
+2022-05-12 12:40:21.274850:-  (6, 6) selected 
+2022-05-12 12:40:26.894556:- mouse button pressed at (5, 5)
+2022-05-12 12:40:26.895547:-  move piece call moved:False promotion:False 
+2022-05-12 12:40:26.895547:-  (5, 5) selected 
+2022-05-12 12:40:28.482818:- mouse button pressed at (6, 5)
+2022-05-12 12:40:28.482818:-  move piece call moved:False promotion:False 
+2022-05-12 12:40:28.482818:-  (6, 5) selected 
+2022-05-12 12:40:29.044648:- mouse button pressed at (7, 5)
+2022-05-12 12:40:29.045651:-  move piece call moved:False promotion:False 
+2022-05-12 12:40:29.046650:-  (7, 5) selected 
+2022-05-12 12:40:34.924420:- mouse button pressed at (5, 5)
+2022-05-12 12:40:34.925450:-  move piece call moved:True promotion:False 
+2022-05-12 12:40:38.948245:-  AI moving (0, 7) to (0, 6)
+2022-05-12 12:40:50.115337:- mouse button pressed at (6, 3)
+2022-05-12 12:40:50.115337:-  move piece call moved:False promotion:False 
+2022-05-12 12:40:50.118336:-  (6, 3) selected 
+2022-05-12 12:41:04.982981:- mouse button pressed at (6, 5)
+2022-05-12 12:41:04.985982:-  move piece call moved:True promotion:False 
+2022-05-12 12:41:08.398280:-  AI moving (1, 5) to (3, 5)
+2022-05-12 12:41:13.625941:- mouse button pressed at (6, 5)
+2022-05-12 12:41:13.626947:-  move piece call moved:False promotion:False 
+2022-05-12 12:41:13.627945:-  (6, 5) selected 
+2022-05-12 12:41:21.462379:- mouse button pressed at (5, 5)
+2022-05-12 12:41:21.463379:-  move piece call moved:False promotion:False 
+2022-05-12 12:41:21.464406:-  (5, 5) selected 
+2022-05-12 12:41:25.276591:- mouse button pressed at (6, 5)
+2022-05-12 12:41:25.277555:-  move piece call moved:False promotion:False 
+2022-05-12 12:41:25.279586:-  (6, 5) selected 
+2022-05-12 12:41:30.962830:- mouse button pressed at (5, 5)
+2022-05-12 12:41:30.964837:-  move piece call moved:False promotion:False 
+2022-05-12 12:41:30.965839:-  (5, 5) selected 
+2022-05-12 12:41:36.737481:- mouse button pressed at (4, 5)
+2022-05-12 12:41:36.738452:-  move piece call moved:True promotion:False 
+2022-05-12 12:41:38.855502:-  AI moving (4, 6) to (7, 3)
+2022-05-12 12:41:46.077596:- mouse button pressed at (6, 5)
+2022-05-12 12:41:46.077596:-  move piece call moved:False promotion:False 
+2022-05-12 12:41:46.079598:-  (6, 5) selected 
+2022-05-12 12:41:56.781637:- mouse button pressed at (7, 5)
+2022-05-12 12:41:56.782635:-  move piece call moved:True promotion:False 
+2022-05-12 12:41:59.091177:-  AI moving (0, 6) to (6, 6)
+2022-05-12 12:42:03.584927:- mouse button pressed at (7, 5)
+2022-05-12 12:42:03.585928:-  move piece call moved:False promotion:False 
+2022-05-12 12:42:03.586928:-  (7, 5) selected 
+2022-05-12 12:42:04.715540:- mouse button pressed at (6, 6)
+2022-05-12 12:42:04.716539:-  move piece call moved:False promotion:False 
+2022-05-12 12:42:04.716539:-  (6, 6) selected 
+2022-05-12 12:42:05.700154:- mouse button pressed at (7, 6)
+2022-05-12 12:42:05.700154:-  move piece call moved:False promotion:False 
+2022-05-12 12:42:05.700154:-  (7, 6) selected 
+2022-05-12 12:42:06.208088:- mouse button pressed at (6, 6)
+2022-05-12 12:42:06.209088:-  move piece call moved:True promotion:False 
+2022-05-12 12:42:07.506968:-  AI moving (7, 3) to (6, 2)
+2022-05-12 12:42:10.438877:- mouse button pressed at (7, 5)
+2022-05-12 12:42:10.438877:-  move piece call moved:False promotion:False 
+2022-05-12 12:42:10.439871:-  (7, 5) selected 
+2022-05-12 12:42:13.752414:- mouse button pressed at (7, 1)
+2022-05-12 12:42:13.753413:-  move piece call moved:False promotion:False 
+2022-05-12 12:42:13.754414:-  (7, 1) selected 
+2022-05-12 12:42:17.461038:- mouse button pressed at (6, 0)
+2022-05-12 12:42:17.461038:-  move piece call moved:False promotion:False 
+2022-05-12 12:42:17.461038:-  (6, 0) selected 
+2022-05-12 12:42:17.985401:- mouse button pressed at (7, 0)
+2022-05-12 12:42:17.989399:-  move piece call moved:False promotion:False 
+2022-05-12 12:42:17.989399:-  (7, 0) selected 
+2022-05-12 12:42:19.451754:- mouse button pressed at (6, 0)
+2022-05-12 12:42:19.452722:-  move piece call moved:False promotion:False 
+2022-05-12 12:42:19.452722:-  (6, 0) selected 
+2022-05-12 12:42:20.327236:- mouse button pressed at (7, 5)
+2022-05-12 12:42:20.327236:-  move piece call moved:False promotion:False 
+2022-05-12 12:42:20.329237:-  (7, 5) selected 
+2022-05-12 12:42:21.561011:- mouse button pressed at (6, 6)
+2022-05-12 12:42:21.562048:-  move piece call moved:False promotion:False 
+2022-05-12 12:42:21.563043:-  (6, 6) selected 
+2022-05-12 12:42:42.036198:- mouse button pressed at (7, 1)
+2022-05-12 12:42:42.037199:-  move piece call moved:False promotion:False 
+2022-05-12 12:42:42.038199:-  (7, 1) selected 
+2022-05-12 12:42:47.248325:- mouse button pressed at (7, 5)
+2022-05-12 12:42:47.249325:-  move piece call moved:False promotion:False 
+2022-05-12 12:42:47.250325:-  (7, 5) selected 
+2022-05-12 12:42:48.103577:- mouse button pressed at (6, 5)
+2022-05-12 12:42:48.105576:-  move piece call moved:True promotion:False 
+2022-05-12 12:42:49.473352:-  AI moving (6, 2) to (5, 1)
+2022-05-12 12:42:54.878073:- mouse button pressed at (6, 1)
+2022-05-12 12:42:54.878073:-  move piece call moved:False promotion:False 
+2022-05-12 12:42:54.878073:-  (6, 1) selected 
+2022-05-12 12:42:55.277685:- mouse button pressed at (7, 1)
+2022-05-12 12:42:55.277685:-  move piece call moved:False promotion:False 
+2022-05-12 12:42:55.277685:-  (7, 1) selected 
+2022-05-12 12:42:58.229567:- mouse button pressed at (6, 3)
+2022-05-12 12:42:58.229567:-  move piece call moved:True promotion:False 
+2022-05-12 12:43:00.074356:-  AI moving (5, 1) to (5, 2)
+2022-05-12 12:43:03.614394:- mouse button pressed at (6, 3)
+2022-05-12 12:43:03.614394:-  move piece call moved:False promotion:False 
+2022-05-12 12:43:03.615393:-  (6, 3) selected 
+2022-05-12 12:43:12.541830:- mouse button pressed at (4, 5)
+2022-05-12 12:43:12.542832:-  move piece call moved:False promotion:False 
+2022-05-12 12:43:12.543864:-  (4, 5) selected 
+2022-05-12 12:43:13.752399:- mouse button pressed at (5, 5)
+2022-05-12 12:43:13.753406:-  move piece call moved:True promotion:False 
+2022-05-12 12:43:15.554412:-  AI moving (5, 2) to (7, 0)
+2022-05-12 12:43:20.588232:- mouse button pressed at (6, 5)
+2022-05-12 12:43:20.588232:-  move piece call moved:False promotion:False 
+2022-05-12 12:43:20.589209:-  (6, 5) selected 
+2022-05-12 12:43:24.171719:- mouse button pressed at (6, 3)
+2022-05-12 12:43:24.172719:-  move piece call moved:False promotion:False 
+2022-05-12 12:43:24.172719:-  (6, 3) selected 
+2022-05-12 12:43:30.781150:- mouse button pressed at (7, 5)
+2022-05-12 12:43:30.782152:-  move piece call moved:True promotion:False 
+2022-05-12 12:43:32.626167:-  AI moving (2, 7) to (4, 6)
+2022-05-12 12:43:35.912685:- mouse button pressed at (7, 5)
+2022-05-12 12:43:35.913687:-  move piece call moved:False promotion:False 
+2022-05-12 12:43:35.913687:-  (7, 5) selected 
+2022-05-12 12:43:37.473468:- mouse button pressed at (6, 6)
+2022-05-12 12:43:37.474469:-  move piece call moved:False promotion:False 
+2022-05-12 12:43:37.475469:-  (6, 6) selected 
+2022-05-12 12:43:51.790551:- mouse button pressed at (5, 5)
+2022-05-12 12:43:51.791551:-  move piece call moved:False promotion:False 
+2022-05-12 12:43:51.792552:-  (5, 5) selected 
+2022-05-12 12:44:12.515732:- mouse button pressed at (6, 5)
+2022-05-12 12:44:12.516731:-  move piece call moved:False promotion:False 
+2022-05-12 12:44:12.517731:-  (6, 5) selected 
+2022-05-12 12:44:20.987222:- mouse button pressed at (4, 7)
+2022-05-12 12:44:20.989223:-  move piece call moved:True promotion:False 
+2022-05-12 12:44:21.340428:-  AI moving (0, 3) to (0, 2)
+2022-05-12 12:44:33.282804:- mouse button pressed at (4, 6)
+2022-05-12 12:44:33.282804:-  move piece call moved:False promotion:False 
+2022-05-12 12:44:33.282804:-  (4, 6) selected 
+2022-05-12 12:44:34.289938:- mouse button pressed at (4, 7)
+2022-05-12 12:44:34.289938:-  move piece call moved:False promotion:False 
+2022-05-12 12:44:34.291938:-  (4, 7) selected 
+2022-05-12 12:44:39.530740:- mouse button pressed at (1, 7)
+2022-05-12 12:44:39.532733:-  move piece call moved:True promotion:False 
+2022-05-12 12:44:41.731914:-  AI moving (7, 0) to (4, 3)
+2022-05-12 12:44:48.596700:- mouse button pressed at (1, 7)
+2022-05-12 12:44:48.596700:-  move piece call moved:False promotion:False 
+2022-05-12 12:44:48.598718:-  (1, 7) selected 
+2022-05-12 12:44:55.465577:- mouse button pressed at (5, 5)
+2022-05-12 12:44:55.466576:-  move piece call moved:False promotion:False 
+2022-05-12 12:44:55.468576:-  (5, 5) selected 
+2022-05-12 12:45:00.572965:- mouse button pressed at (7, 5)
+2022-05-12 12:45:00.573965:-  move piece call moved:False promotion:False 
+2022-05-12 12:45:00.574965:-  (7, 5) selected 
+2022-05-12 12:45:07.737882:- mouse button pressed at (5, 4)
+2022-05-12 12:45:07.737882:-  move piece call moved:True promotion:False 
+2022-05-12 12:45:10.813510:-  AI moving (4, 6) to (3, 4)
+2022-05-12 12:45:24.138825:- mouse button pressed at (5, 5)
+2022-05-12 12:45:24.138825:-  move piece call moved:False promotion:False 
+2022-05-12 12:45:24.139818:-  (5, 5) selected 
+2022-05-12 12:45:25.447148:- mouse button pressed at (5, 1)
+2022-05-12 12:45:25.448148:-  move piece call moved:False promotion:False 
+2022-05-12 12:45:25.449148:-  (5, 1) selected 
+2022-05-12 12:45:26.092148:- mouse button pressed at (5, 0)
+2022-05-12 12:45:26.092148:-  move piece call moved:False promotion:False 
+2022-05-12 12:45:26.093149:-  (5, 0) selected 
+2022-05-12 12:45:28.265326:- mouse button pressed at (6, 7)
+2022-05-12 12:45:28.265326:-  move piece call moved:False promotion:False 
+2022-05-12 12:45:28.266326:-  (6, 7) selected 
+2022-05-12 12:45:29.321385:- mouse button pressed at (4, 7)
+2022-05-12 12:45:29.321385:-  move piece call moved:True promotion:False 
+2022-05-12 12:45:32.306476:-  AI moving (4, 3) to (4, 4)
+2022-05-12 12:45:35.174769:- mouse button pressed at (1, 7)
+2022-05-12 12:45:35.175725:-  move piece call moved:False promotion:False 
+2022-05-12 12:45:35.176755:-  (1, 7) selected 
+2022-05-12 12:45:35.967963:- mouse button pressed at (0, 7)
+2022-05-12 12:45:35.969962:-  move piece call moved:True promotion:False 
+2022-05-12 12:45:36.069961:-  AI moving (0, 2) to (1, 1)
+2022-05-12 12:45:40.903777:- mouse button pressed at (4, 7)
+2022-05-12 12:45:40.904777:-  move piece call moved:False promotion:False 
+2022-05-12 12:45:40.904777:-  (4, 7) selected 
+2022-05-12 12:45:46.490300:- mouse button pressed at (5, 4)
+2022-05-12 12:45:46.491301:-  move piece call moved:False promotion:False 
+2022-05-12 12:45:46.491301:-  (5, 4) selected 
+2022-05-12 12:45:51.896369:- mouse button pressed at (0, 7)
+2022-05-12 12:45:51.897340:-  move piece call moved:False promotion:False 
+2022-05-12 12:45:51.899371:-  (0, 7) selected 
+2022-05-12 12:45:58.722622:- mouse button pressed at (1, 7)
+2022-05-12 12:45:58.724632:-  move piece call moved:True promotion:False 
+2022-05-12 12:46:02.129364:-  AI moving (1, 1) to (0, 2)
+2022-05-12 12:46:04.907361:- mouse button pressed at (1, 7)
+2022-05-12 12:46:04.907361:-  move piece call moved:False promotion:False 
+2022-05-12 12:46:04.909354:-  (1, 7) selected 
+2022-05-12 12:46:05.150342:- mouse button pressed at None
+2022-05-12 12:46:05.874306:- mouse button pressed at (1, 7)
+2022-05-12 12:46:05.874306:-  move piece call moved:False promotion:False 
+2022-05-12 12:46:05.876305:-  (1, 7) selected 
+2022-05-12 12:46:06.245306:- mouse button pressed at (0, 7)
+2022-05-12 12:46:06.246306:-  move piece call moved:True promotion:False 
+2022-05-12 12:46:06.348305:-  AI moving (0, 2) to (1, 1)
+2022-05-12 12:46:09.069587:- mouse button pressed at (0, 7)
+2022-05-12 12:46:09.069587:-  move piece call moved:False promotion:False 
+2022-05-12 12:46:09.071588:-  (0, 7) selected 
+2022-05-12 12:46:09.431793:- mouse button pressed at (1, 7)
+2022-05-12 12:46:09.433788:-  move piece call moved:True promotion:False 
+2022-05-12 12:46:12.740487:-  AI moving (3, 4) to (5, 5)
+2022-05-12 12:46:16.380350:- mouse button pressed at (6, 6)
+2022-05-12 12:46:16.381338:-  move piece call moved:False promotion:False 
+2022-05-12 12:46:16.382299:-  (6, 6) selected 
+2022-05-12 12:46:17.452466:- mouse button pressed at (5, 5)
+2022-05-12 12:46:17.453466:-  move piece call moved:False promotion:False 
+2022-05-12 12:46:17.453466:-  (5, 5) selected 
+2022-05-12 12:46:18.628131:- mouse button pressed at (6, 6)
+2022-05-12 12:46:18.628131:-  move piece call moved:False promotion:False 
+2022-05-12 12:46:18.629127:-  (6, 6) selected 
+2022-05-12 12:46:19.082265:- mouse button pressed at (5, 4)
+2022-05-12 12:46:19.083266:-  move piece call moved:False promotion:False 
+2022-05-12 12:46:19.084263:-  (5, 4) selected 
+2022-05-12 12:46:26.228104:- mouse button pressed at (1, 7)
+2022-05-12 12:46:26.229103:-  move piece call moved:False promotion:False 
+2022-05-12 12:46:26.231103:-  (1, 7) selected 
+2022-05-12 12:46:31.671660:- mouse button pressed at (3, 7)
+2022-05-12 12:46:31.672660:-  move piece call moved:True promotion:False 
+2022-05-12 12:46:34.475066:-  AI moving (0, 1) to (0, 6)
+2022-05-12 12:46:38.986582:- mouse button pressed at (3, 7)
+2022-05-12 12:46:38.986582:-  move piece call moved:False promotion:False 
+2022-05-12 12:46:38.987583:-  (3, 7) selected 
+2022-05-12 12:47:04.369930:- mouse button pressed at (3, 6)
+2022-05-12 12:47:04.370931:-  move piece call moved:True promotion:False 
+2022-05-12 12:47:08.944083:-  AI moving (5, 5) to (3, 6)
+2022-05-12 12:47:11.623133:- mouse button pressed at (4, 7)
+2022-05-12 12:47:11.624134:-  move piece call moved:False promotion:False 
+2022-05-12 12:47:11.624134:-  (4, 7) selected 
+2022-05-12 12:47:12.485745:- mouse button pressed at (3, 6)
+2022-05-12 12:47:12.485745:-  move piece call moved:False promotion:False 
+2022-05-12 12:47:12.486745:-  (3, 6) selected 
+2022-05-12 12:47:13.367300:- mouse button pressed at (4, 7)
+2022-05-12 12:47:13.368281:-  move piece call moved:False promotion:False 
+2022-05-12 12:47:13.368281:-  (4, 7) selected 
+2022-05-12 12:47:14.799622:- mouse button pressed at (4, 7)
+2022-05-12 12:47:14.799622:-  move piece call moved:False promotion:False 
+2022-05-12 12:47:14.800621:-  (4, 7) selected 
+2022-05-12 12:47:15.085153:- mouse button pressed at (3, 6)
+2022-05-12 12:47:15.085153:-  move piece call moved:False promotion:False 
+2022-05-12 12:47:15.085153:-  (3, 6) selected 
+2022-05-12 12:47:15.522344:- mouse button pressed at (4, 7)
+2022-05-12 12:47:15.523314:-  move piece call moved:False promotion:False 
+2022-05-12 12:47:15.523314:-  (4, 7) selected 
+2022-05-12 12:47:15.789314:- mouse button pressed at (3, 6)
+2022-05-12 12:47:15.790315:-  move piece call moved:False promotion:False 
+2022-05-12 12:47:15.790315:-  (3, 6) selected 
+2022-05-12 12:47:18.851165:- mouse button pressed at (5, 4)
+2022-05-12 12:47:18.851165:-  move piece call moved:False promotion:False 
+2022-05-12 12:47:18.852165:-  (5, 4) selected 
+2022-05-12 12:47:21.204256:- mouse button pressed at (6, 6)
+2022-05-12 12:47:21.205256:-  move piece call moved:False promotion:False 
+2022-05-12 12:47:21.206256:-  (6, 6) selected 
+2022-05-12 12:47:22.094338:- mouse button pressed at (6, 5)
+2022-05-12 12:47:22.095337:-  move piece call moved:True promotion:False 
+2022-05-12 12:47:25.144482:-  AI moving (4, 4) to (4, 5)
+2022-05-12 12:47:30.576633:- mouse button pressed at (5, 4)
+2022-05-12 12:47:30.577634:-  move piece call moved:False promotion:False 
+2022-05-12 12:47:30.578633:-  (5, 4) selected 
+2022-05-12 12:47:31.708334:- mouse button pressed at (4, 7)
+2022-05-12 12:47:31.709335:-  move piece call moved:False promotion:False 
+2022-05-12 12:47:31.710333:-  (4, 7) selected 
+2022-05-12 12:47:32.522635:- mouse button pressed at (6, 5)
+2022-05-12 12:47:32.523636:-  move piece call moved:False promotion:False 
+2022-05-12 12:47:32.524636:-  (6, 5) selected 
+2022-05-12 12:47:32.754884:- mouse button pressed at (6, 4)
+2022-05-12 12:47:32.755885:-  move piece call moved:True promotion:False 
+2022-05-12 12:47:35.669711:-  AI moving (4, 5) to (5, 5)
+2022-05-12 12:47:38.261539:- mouse button pressed at (6, 4)
+2022-05-12 12:47:38.262539:-  move piece call moved:False promotion:False 
+2022-05-12 12:47:38.263539:-  (6, 4) selected 
+2022-05-12 12:47:38.701211:- mouse button pressed at (5, 5)
+2022-05-12 12:47:38.702211:-  move piece call moved:False promotion:False 
+2022-05-12 12:47:38.702211:-  (5, 5) selected 
+2022-05-12 12:47:39.339580:- mouse button pressed at (6, 4)
+2022-05-12 12:47:39.340581:-  move piece call moved:False promotion:False 
+2022-05-12 12:47:39.341580:-  (6, 4) selected 
+2022-05-12 12:47:39.609959:- mouse button pressed at (5, 5)
+2022-05-12 12:47:39.610959:-  move piece call moved:False promotion:False 
+2022-05-12 12:47:39.610959:-  (5, 5) selected 
+2022-05-12 12:47:39.925960:- mouse button pressed at (6, 3)
+2022-05-12 12:47:39.925960:-  move piece call moved:False promotion:False 
+2022-05-12 12:47:39.925960:-  (6, 3) selected 
+2022-05-12 12:47:40.271960:- mouse button pressed at (6, 4)
+2022-05-12 12:47:40.271960:-  move piece call moved:False promotion:False 
+2022-05-12 12:47:40.272959:-  (6, 4) selected 
+2022-05-12 12:47:41.167025:- mouse button pressed at (5, 3)
+2022-05-12 12:47:41.169025:-  move piece call moved:True promotion:False 
+2022-05-12 12:47:43.549799:-  AI moving (2, 0) to (3, 2)
+2022-05-12 12:47:47.136978:- mouse button pressed at (5, 3)
+2022-05-12 12:47:47.136978:-  move piece call moved:False promotion:False 
+2022-05-12 12:47:47.137950:-  (5, 3) selected 
+2022-05-12 12:47:47.772614:- mouse button pressed at (5, 2)
+2022-05-12 12:47:47.773585:-  move piece call moved:True promotion:False 
+2022-05-12 12:47:50.488378:-  AI moving (5, 5) to (5, 4)
+2022-05-12 12:47:53.515511:- mouse button pressed at (4, 6)
+2022-05-12 12:47:53.516511:-  move piece call moved:False promotion:False 
+2022-05-12 12:47:53.516511:-  (4, 6) selected 
+2022-05-12 12:47:53.991569:- mouse button pressed at (4, 7)
+2022-05-12 12:47:53.991569:-  move piece call moved:False promotion:False 
+2022-05-12 12:47:53.992570:-  (4, 7) selected 
+2022-05-12 12:47:55.403248:- mouse button pressed at (5, 2)
+2022-05-12 12:47:55.404249:-  move piece call moved:False promotion:False 
+2022-05-12 12:47:55.405248:-  (5, 2) selected 
+2022-05-12 12:47:55.997165:- mouse button pressed at (3, 1)
+2022-05-12 12:47:55.998166:-  move piece call moved:False promotion:False 
+2022-05-12 12:47:55.998166:-  (3, 1) selected 
+2022-05-12 12:47:56.631872:- mouse button pressed at (5, 2)
+2022-05-12 12:47:56.631872:-  move piece call moved:False promotion:False 
+2022-05-12 12:47:56.632872:-  (5, 2) selected 
+2022-05-12 12:47:57.162873:- mouse button pressed at (4, 1)
+2022-05-12 12:47:57.163872:-  move piece call moved:True promotion:False 
+2022-05-12 12:47:59.947473:-  AI moving (5, 4) to (6, 3)
+2022-05-12 12:48:02.485510:- mouse button pressed at (4, 1)
+2022-05-12 12:48:02.485510:-  move piece call moved:False promotion:False 
+2022-05-12 12:48:02.486510:-  (4, 1) selected 
+2022-05-12 12:48:03.318306:- mouse button pressed at (3, 2)
+2022-05-12 12:48:03.319307:-  move piece call moved:False promotion:False 
+2022-05-12 12:48:03.319307:-  (3, 2) selected 
+2022-05-12 12:48:03.849615:- mouse button pressed at (4, 1)
+2022-05-12 12:48:03.849615:-  move piece call moved:False promotion:False 
+2022-05-12 12:48:03.850616:-  (4, 1) selected 
+2022-05-12 12:48:04.467885:- mouse button pressed at (3, 1)
+2022-05-12 12:48:04.468885:-  move piece call moved:True promotion:False 
+2022-05-12 12:48:06.879101:-  AI moving (3, 6) to (4, 4)
+2022-05-12 12:48:09.008452:- mouse button pressed at (3, 1)
+2022-05-12 12:48:09.008452:-  move piece call moved:False promotion:False 
+2022-05-12 12:48:09.009461:-  (3, 1) selected 
+2022-05-12 12:48:10.425354:- mouse button pressed at (3, 0)
+2022-05-12 12:48:10.426348:-  move piece call moved:False promotion:False 
+2022-05-12 12:48:10.426348:-  (3, 0) selected 
+2022-05-12 12:48:10.897753:- mouse button pressed at (3, 1)
+2022-05-12 12:48:10.897753:-  move piece call moved:False promotion:False 
+2022-05-12 12:48:10.898752:-  (3, 1) selected 
+2022-05-12 12:48:11.455673:- mouse button pressed at (4, 1)
+2022-05-12 12:48:11.456673:-  move piece call moved:False promotion:False 
+2022-05-12 12:48:11.457672:-  (4, 1) selected 
+2022-05-12 12:48:11.860169:- mouse button pressed at (3, 1)
+2022-05-12 12:48:11.860169:-  move piece call moved:False promotion:False 
+2022-05-12 12:48:11.861197:-  (3, 1) selected 
+2022-05-12 12:48:13.005620:- mouse button pressed at (4, 2)
+2022-05-12 12:48:13.006620:-  move piece call moved:False promotion:False 
+2022-05-12 12:48:13.006620:-  (4, 2) selected 
+2022-05-12 12:48:13.655659:- mouse button pressed at (3, 2)
+2022-05-12 12:48:13.655659:-  move piece call moved:False promotion:False 
+2022-05-12 12:48:13.655659:-  (3, 2) selected 
+2022-05-12 12:48:14.562887:- mouse button pressed at (5, 0)
+2022-05-12 12:48:14.562887:-  move piece call moved:False promotion:False 
+2022-05-12 12:48:14.562887:-  (5, 0) selected 
+2022-05-12 12:48:15.431839:- mouse button pressed at (4, 0)
+2022-05-12 12:48:15.432838:-  move piece call moved:True promotion:False 
+2022-05-12 12:48:18.637034:-  AI moving (3, 5) to (4, 5)
+2022-05-12 12:48:21.406776:- mouse button pressed at (4, 7)
+2022-05-12 12:48:21.407776:-  move piece call moved:False promotion:False 
+2022-05-12 12:48:21.407776:-  (4, 7) selected 
+2022-05-12 12:48:21.743162:- mouse button pressed at (3, 7)
+2022-05-12 12:48:21.743162:-  move piece call moved:True promotion:False 
+2022-05-12 12:48:24.523366:-  AI moving (6, 3) to (7, 3)
+2022-05-12 12:48:27.538399:- mouse button pressed at (4, 2)
+2022-05-12 12:48:27.538399:-  move piece call moved:False promotion:False 
+2022-05-12 12:48:27.538399:-  (4, 2) selected 
+2022-05-12 12:48:29.183998:- mouse button pressed at (4, 0)
+2022-05-12 12:48:29.185000:-  move piece call moved:False promotion:False 
+2022-05-12 12:48:29.185000:-  (4, 0) selected 
+2022-05-12 12:48:29.572670:- mouse button pressed at (3, 0)
+2022-05-12 12:48:29.572670:-  move piece call moved:True promotion:False 
+2022-05-12 12:48:33.099818:-  AI moving (4, 4) to (2, 3)
+2022-05-12 12:48:35.108529:- mouse button pressed at (3, 1)
+2022-05-12 12:48:35.109528:-  move piece call moved:False promotion:False 
+2022-05-12 12:48:35.110527:-  (3, 1) selected 
+2022-05-12 12:48:35.451444:- mouse button pressed at (3, 1)
+2022-05-12 12:48:35.452476:-  move piece call moved:False promotion:False 
+2022-05-12 12:48:35.453474:-  (3, 1) selected 
+2022-05-12 12:48:36.097348:- mouse button pressed at (4, 1)
+2022-05-12 12:48:36.098369:-  move piece call moved:True promotion:False 
+2022-05-12 12:48:40.185313:-  AI moving (7, 3) to (6, 3)
+2022-05-12 12:48:42.195878:- mouse button pressed at (4, 1)
+2022-05-12 12:48:42.195878:-  move piece call moved:False promotion:False 
+2022-05-12 12:48:42.196879:-  (4, 1) selected 
+2022-05-12 12:48:42.393987:- mouse button pressed at (4, 1)
+2022-05-12 12:48:42.394987:-  move piece call moved:False promotion:False 
+2022-05-12 12:48:42.394987:-  (4, 1) selected 
+2022-05-12 12:48:43.006068:- mouse button pressed at (5, 0)
+2022-05-12 12:48:43.007063:-  move piece call moved:True promotion:False 
+2022-05-12 12:48:46.779503:-  AI moving (2, 1) to (3, 0)
+2022-05-12 12:48:49.578498:- mouse button pressed at (5, 0)
+2022-05-12 12:48:49.579498:-  move piece call moved:False promotion:False 
+2022-05-12 12:48:49.579498:-  (5, 0) selected 
+2022-05-12 12:48:50.305202:- mouse button pressed at (4, 2)
+2022-05-12 12:48:50.305202:-  move piece call moved:False promotion:False 
+2022-05-12 12:48:50.306202:-  (4, 2) selected 
+2022-05-12 12:48:51.107955:- mouse button pressed at (5, 0)
+2022-05-12 12:48:51.107955:-  move piece call moved:False promotion:False 
+2022-05-12 12:48:51.108949:-  (5, 0) selected 
+2022-05-12 12:48:51.897095:- mouse button pressed at (4, 2)
+2022-05-12 12:48:51.898094:-  move piece call moved:False promotion:False 
+2022-05-12 12:48:51.898094:-  (4, 2) selected 
+2022-05-12 12:48:52.568946:- mouse button pressed at (3, 7)
+2022-05-12 12:48:52.569946:-  move piece call moved:False promotion:False 
+2022-05-12 12:48:52.569946:-  (3, 7) selected 
+2022-05-12 12:48:52.886570:- mouse button pressed at (2, 7)
+2022-05-12 12:48:52.886570:-  move piece call moved:True promotion:False 
+2022-05-12 12:48:55.971017:-  AI moving (0, 6) to (0, 4)
+2022-05-12 12:48:58.307532:- mouse button pressed at (2, 7)
+2022-05-12 12:48:58.308532:-  move piece call moved:False promotion:False 
+2022-05-12 12:48:58.308532:-  (2, 7) selected 
+2022-05-12 12:48:58.582532:- mouse button pressed at (0, 6)
+2022-05-12 12:48:58.583532:-  move piece call moved:False promotion:False 
+2022-05-12 12:48:58.583532:-  (0, 6) selected 
+2022-05-12 12:48:59.098604:- mouse button pressed at (2, 7)
+2022-05-12 12:48:59.098604:-  move piece call moved:False promotion:False 
+2022-05-12 12:48:59.098604:-  (2, 7) selected 
+2022-05-12 12:48:59.315604:- mouse button pressed at (1, 7)
+2022-05-12 12:48:59.315604:-  move piece call moved:True promotion:False 
+2022-05-12 12:49:01.407570:-  AI moving (0, 4) to (0, 5)
+2022-05-12 12:49:06.330831:- mouse button pressed at (1, 7)
+2022-05-12 12:49:06.330831:-  move piece call moved:False promotion:False 
+2022-05-12 12:49:06.331833:-  (1, 7) selected 
+2022-05-12 12:49:06.599103:- mouse button pressed at (0, 7)
+2022-05-12 12:49:06.600084:-  move piece call moved:True promotion:True 
